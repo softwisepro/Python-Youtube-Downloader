@@ -1,16 +1,16 @@
 # Python-Youtube-Downloader
 This is the simplest useful python automation project for learning python and also for daily life uses if put into practice.
 
-Requirements for the project;
+<h2>Requirements for the project;</h2>
 
-first you need to install pytube
-  pip3 install pytube
+&nbsp;<h3>first you need to install</h3> pytube<br>
+  &nbsp;&nbsp;&nbsp;<p>pip3 install pytube</p>
   
   
-How to run the codes;
+&nbsp;<h3>How to run the codes;</h3>
   
-  python3 ytdownloader.py "<add your youtube video link here>"
+  &nbsp;&nbsp;&nbsp;<p>python3 ytdownloader.py "<span>add your youtube video link here</span>"</p>
   
-  then click enter.
+  &nbsp;&nbsp;&nbsp;<p>then click enter.</p>
   
 
